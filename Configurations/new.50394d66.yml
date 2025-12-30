@@ -1,0 +1,12 @@
+id: 1536fa1b-f872-bfa5-a171-bf14ea876beb
+type: state
+interactions: []
+annotations:
+  - namespace: c4modeler
+    name: position
+    value:
+      21e2582e-4e60-4963-94e2-732fbde88fa0:
+        x: 285.43799669000765
+        y: 310.2887401387563
+name: new
+description: Description for new-state
